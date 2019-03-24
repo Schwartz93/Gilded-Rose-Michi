@@ -17,3 +17,5 @@ $sulfuras->letDaysPass();
 $pass = new Pass(23);
 $pass->displayItem();
 $pass->letDaysPass();
+
+$thisisatest;
